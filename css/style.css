@@ -842,6 +842,11 @@ header .ham-burger.active span:nth-child(2) {
 	font-size: 15px;
 }
 
+/* .tiktok {
+	position: absolute;
+	bottom: 104px;
+} */
+
 
 
 
@@ -937,5 +942,3 @@ flex: 0 0 100%;
       font-size: 30px;
   }
 }
-
-
